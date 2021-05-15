@@ -2,6 +2,7 @@ package com.wp;
 
 /**
  * 已经追踪过的文件，不需要add就可以commit
+ *
  */
 public class Ran {
     public static void main(String[] args) {
